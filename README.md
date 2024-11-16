@@ -13,13 +13,16 @@ This project focuses on predicting house prices using machine learning technique
 
 ## Dataset 📁
 The dataset contains more than **1,000,000 rows** and **12 columns**, including features like:
-- **Size of the house** (sqft) 📏
-- **Number of bedrooms** 🛏️
-- **Number of bathrooms** 🚿
-- **Location** 📍
-- **Year built** 🏠
-- **House type** 🏡
-- **Price** 💰 (target variable)
+- **Price of the house** 💰 (target variable)
+- **Date of Transfer** 📅
+- **Property Type** 🏠 (e.g., detached, semi-detached, terraced, flat)
+- **Old/New** 🏡 (indicates whether the property is newly built or existing)
+- **Duration** ⏳ (e.g., freehold or leasehold)
+- **Town/City** 📍
+- **District** 🏢
+- **County** 🌍
+- **PPDCategory Type** 🔖 (indicates if the property was a full or partial sale)
+- **Record Status** 🗂️ (applicable to monthly file updates)
 
 ## Requirements 📋
 - Python (version 3.6 or higher recommended)
