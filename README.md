@@ -50,7 +50,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 ## Setup 🧑‍💻
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/forecasting-house-prices-using-machine-learning.git
+   git clone https://github.com/dharmendradiwaker/Forecasting-House-Prices-Using-Machine-Learning.git
    ```
 
 2. Navigate to the project folder:
